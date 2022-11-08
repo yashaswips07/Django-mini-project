@@ -1,0 +1,7 @@
+Yashaswi P S
+
+Employee Management System is a software which serve as a system which a normal person can do the operation for managing 
+employee data.
+
+To this project my contribution is developing the signup admin login, where the admin can directly login using a panel 
+by providing credentials.
